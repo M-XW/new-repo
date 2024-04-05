@@ -5,3 +5,7 @@
 .heading:first-child {
 margin:auto
 }
+
+.footer {
+    color: aqua;
+}
